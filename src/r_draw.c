@@ -43,7 +43,7 @@
 #include "am_map.h"
 #include "lprintf.h"
 
-#include "gba_functions.h"
+#include "TI-libs/graphx.h"
 
 #include "global_data.h"
 

@@ -13,7 +13,7 @@
 //#define DOGS 1
 
 /* Define to be the path where Doom WADs are stored */
-#define DOOMWADDIR "/usr/local/share/games/doom"
+#define DOOMWADDIR "/iwad"
 
 /* Define to 1 if you have the <asm/byteorder.h> header file. */
 //#define HAVE_ASM_BYTEORDER_H 1
